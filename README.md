@@ -1,6 +1,6 @@
 🌟📝 OTOYOL REHBERİ 🌟📝
  
- Bu projede; kullanıcıların anlık hızı ile zamanla aldıkları yol takibi yapılmaktadır. Kullanıcı bu detayları takip edebilir ve hızını süreye bağlı olarak değiştirebilir. Aynı zaman da  otoyollarda bulunan gişeler arası süre zorunluluğu göz önüne alınarak kullanıcıya bu gişeler arasındaki mesafe bilgileri ve bu mesafeyi alabileceği süreler hesaplanarak bilidirilir. Kullanıcı da tekrardan bu bilgilere göre hızını ve süreyi ayarlayabilir.  
+ Bu projede; kullanıcıların anlık hızı ile zamanla aldıkları yol takibi yapılmaktadır. Kullanıcı bu detayları takip edebilir ve hızını süreye bağlı olarak değiştirebilir. Aynı zaman da  otoyollarda bulunan gişeler arası süre zorunluluğu göz önüne alınarak kullanıcıya bu gişeler arasındaki mesafe bilgileri ve bu mesafeyi alabileceği süreler hesaplanarak bildirilir. Kullanıcı da tekrardan bu bilgilere göre hızını ve süreyi ayarlayabilir.  
  
  📌 Kullandığım Kütüphaneler:
 
